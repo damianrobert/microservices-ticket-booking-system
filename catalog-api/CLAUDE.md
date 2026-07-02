@@ -56,8 +56,8 @@ Introduce these in order — do not skip ahead:
 
 ## Status
 
-- [ ] Project scaffolded (`go mod init`)
-- [ ] MongoDB connection established
+- [x] Project scaffolded (`go mod init`)
+- [x] MongoDB connection established
 - [ ] `GET /events` implemented
 - [ ] `GET /events/{id}` implemented
 - [ ] Dockerfile written
